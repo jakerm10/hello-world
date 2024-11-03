@@ -1,3 +1,5 @@
 # hello-world
 This repository is for practicing github flow.
-this is a new test, hopefully this can be read
+Contained within is a sample file which was created in a CSCI 1300 class. 
+This readme is also used to help practice how to properly communicate what my repository is about.
+![OIP](https://github.com/user-attachments/assets/c2bde386-e433-439d-b407-af8aa8ab1ab5)
